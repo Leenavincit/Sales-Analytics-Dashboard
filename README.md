@@ -48,7 +48,7 @@ The Sales Performance Dashboard is an interactive business intelligence project 
 
 ### Monthly Sales
 
-![Monthly Sales](Screenshots/monthly-sales.png)
+![image alt](https://github.com/Leenavincit/Sales-Analytics-Dashboard/blob/c84c143bddd735747dfe8194a6512bde7f8184c8/Monthly%20Trend%20Sales.png)
 
 ### Category Analysis
 
