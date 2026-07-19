@@ -52,11 +52,11 @@ The Sales Performance Dashboard is an interactive business intelligence project 
 
 ### Category Analysis
 
-![Category Analysis](Screenshots/category-analysis.png)
+![image alt](https://github.com/Leenavincit/Sales-Analytics-Dashboard/blob/956d51b9f2a4f097c0335fa098c3eb3909e7b7a3/Sales%20by%20Region.PNG)
 
 ### Map Analysis
 
-![Map Analysis](Screenshots/map-analysis.png)
+![image alt]
 
 ---
 
