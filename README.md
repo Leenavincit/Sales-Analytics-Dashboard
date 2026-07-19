@@ -56,7 +56,7 @@ The Sales Performance Dashboard is an interactive business intelligence project 
 
 ### Map Analysis
 
-![image alt]
+![image alt](https://github.com/Leenavincit/Sales-Analytics-Dashboard/blob/f4518cef2485ee15c770b225a5aaf30fb98a0fb9/Sales%20by%20State%20screenshot.png)
 
 ---
 
